@@ -1,7 +1,7 @@
 # Chocolate-Sale-Project
 CHOCOLATE SALES DATA ANALYSIS PROJECT
 
-In this project, I sourced my data from kaggle (https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales), cleaned and created tables with joins etc in SQL, and then I created some visualstions that answer 12 business questions, prompted by AI.
+In this project, I sourced my data from kaggle (https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales), cleaned and created tables with joins etc in BigQuery, and then I created some visualstions that answer 12 business questions, prompted by AI.
 
 P.S.I forgot to save the queries I created for the initial data cleaning and table creation, however, the queries associated with my business questions are attached in the screenshots below.
 
